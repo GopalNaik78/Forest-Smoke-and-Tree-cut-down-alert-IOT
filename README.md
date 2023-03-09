@@ -34,7 +34,8 @@ clone this git repository into your sketchbook/libraries folder.
 For more info, see https://www.arduino.cc/en/Guide/Libraries
 
 
+Interfacing Diagram:
 ![image](https://user-images.githubusercontent.com/127333901/224089846-1a6c5f5b-38ca-4f7d-8b7f-407cedf638f1.png)
 
 
-
+update the your Blynk and WiFi Credentials in arduino file and dump the code on ESP32 board
